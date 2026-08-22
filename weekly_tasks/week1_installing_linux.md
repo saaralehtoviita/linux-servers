@@ -48,6 +48,8 @@ I am very new to Linux; recently I started my first job in the IT-field and I ne
 
 - After the installation I was nervous and excited for if the installation process had gone throug but I could log in without problems and now have a working laptop with Linux! Here is how the desktop looks like:
 
+![Sxfce Desktop](../images_w1/desktop.png)
+
 - It took some time to find the screenshots that I took during the isntallation. Eventually I found them with some help from AI. All the folders under /home were empty and it turned out that I had to give my user sudo rights before I could even make a more advanced search for the screenshots.
 - Checking the ip adress for the device: `hostname -I`
 - Logging in from another computer using SSH: `saara@192.XXX.XXX.XX`
