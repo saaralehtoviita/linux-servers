@@ -1,6 +1,6 @@
 # Week 1
 
-This file consists of a report from the first weeks theme. The first part is a report about my process of installing Linux and the second part is a summary about the article What is Open Source Software and Why use OSS".
+This file consists of a report from the first weeks theme. The first part is a report about my process of installing Linux and the second part is a summary about the article What is Open Source Software and Why use OSS". I know that the report should include a reflection as well but due to lack of time I am completing the task without that part.
 
 ## Installing Linux
 
@@ -46,7 +46,7 @@ I am very new to Linux; recently I started my first job in the IT-field and I ne
 
 8. Extra things after installation
 
-- After the installation I was nervous and excited for if the installation process had gone through but I could log in without problems and now have a working laptop with Linux! In comparison with installing DietPi the process was easy and straight forward. I guess the biggest difficulty I had faced before was that DietPi is very light and comes with nothing extra but Debian seems to come with more included automatically and for example a desktop environment was not installed automatically. Here is how the desktop looks like:
+- After the installation I was nervous and excited for if the installation process had gone through but I could log in without problems and now have a working laptop with Linux! In comparison with installing DietPi the process was easy and straight forward. I guess the biggest difficulty I had faced before was that DietPi is very light and comes with nothing extra; for example a desktop environment was not installed automatically. But Debian seems to come with more included automatically so the process was smooth. Here is how the desktop looks like:
 
 ![Xfce Desktop](../images_w1/desktop.png)
 
