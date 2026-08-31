@@ -71,3 +71,8 @@ In the screenshot above the lines, words and characters in the file fruits.txt a
 - The word "GNU" appears on 8 lines
 - Finding all lines with the wordh "license": `grep license /usr/share/common-licenses/GPL-2`
 - Finding all lines with the word "license" (including capital letters): `grep -i license /usr/share/common-licenses/GPL-2`
+
+## 3. Btop
+
+Installing btop `sudo apt install btop`
+Running btop `btop`
